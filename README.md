@@ -11,13 +11,11 @@ Hi there 👋, Wahyudi is here!<br>I'm a junior developer 🌱<br>I really like 
 # 💻 Tech Stack:
 null
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=muhammadrakan204&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=muhammadrakan204&theme=dark&hide_border=true)<br/>
+![](https://sosmed-seven.vercel.app/api?username=wahyudinasty&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=muhammadrakan204&theme=dark&hide_border=true)<br/> -->
+![](https://sosmed-seven.vercel.app/)
 
----
-[![](https://visitcount.itsvg.in/api?id=wahyudinasty&icon=5&color=11)](https://visitcount.itsvg.in)
-
-[![](https://visitcount.itsvg.in/api?id=wahyudinasty&label=Wahyudi%20Nasty%20&color=12&icon=2&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=wahyudinasty&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
