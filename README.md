@@ -16,6 +16,7 @@ null
 <!-- ![](https://sosmed-seven.vercel.app/) -->
 
 [![](https://visitcount.itsvg.in/api?id=wahyudinasty&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
+![](https://img.shields.io/github/watchers/wahyudinasty/sosmed?style=social)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
